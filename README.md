@@ -16,4 +16,5 @@ PHP · Laravel · Livewire · Flux · Inertia · React · Vue · TypeScript · T
 ## Find me
 
 - [wire-up.dev](https://wire-up.dev)
+- [@raz-iacob](https://dev-null.sh/@raz-iacob) on dev/null
 - [@razvaniacob](https://x.com/razvaniacob) on X
